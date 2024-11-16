@@ -49,10 +49,6 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 
 <hr>
 
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita248&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
 <!--
 <hr>
 <details align="center">
