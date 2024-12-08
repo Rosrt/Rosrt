@@ -17,7 +17,7 @@
 
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
-- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_ReactJS_** 😉
+- <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **Unity** 😉
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Problem Solving skills..._**
 - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on **_Flutter_**  projects &nbsp;! 🎭
 - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="20vw" /> 
