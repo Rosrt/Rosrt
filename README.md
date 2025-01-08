@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="25746061" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/guts-berserk-banner-rain-aesthetic-no-color-gif-25746061">Guts Berserk Banner GIF</a>from <a href="https://tenor.com/search/guts+berserk-gifs">Guts Berserk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Earth.gif" width="24px"> 
 <br>
 <h1 align="center">I'm Harshit  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
