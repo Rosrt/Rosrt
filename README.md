@@ -78,4 +78,4 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 [<img align="left" alt="Harshit_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/harshit-singh-1b6b21244)
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Rosrt&repo=Rosrt&countColorcountColor&countColor=%237B1E7B"/>
