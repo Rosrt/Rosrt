@@ -1,8 +1,9 @@
-<img src="./Assets/guts-gif.gif" alt="Preview" width="100%" style="width: 100%; height: auto;">
+
 <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Earth.gif" width="24px"> 
 <br>
 <h1 align="center">I'm Harshit  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
 </h1>
+<img src="./Assets/guts-gif.gif" alt="Preview" width="100%" style="width: 100%; height: auto;">
 
 <p align="center">
   <em>
