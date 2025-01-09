@@ -138,7 +138,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 </details>
 -->
 
-<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="./asset/guts-gif.gif" alt="Preview" width="100%" style="width: 100%; height:350px;">
 <br>
 <br>
 <br>
