@@ -71,7 +71,7 @@ _Languages and Tools:_ 🛠  <img align="right" alt="GIF" height="60px" src="htt
 <br>
 <br>
 
-# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="./asset/Handshake.gif" height="32px">
 ------------------------------------------------------------------------------------------------------------
 [<img align="left" alt="Harshit's_Website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](#)
 --------------------------------------------------------------------------------------------------------
