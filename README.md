@@ -7,7 +7,7 @@
 <p align="center">
   <em>
     This is Harshit Singh, a 2nd year undergraduate pursuing B.Tech (CSE) from <a href="https://www.niet.co.in"> <b>Noida Institution of Engineering and Technology (NIET)</b>, Greater Noida</a>. <br>
-    An aspiring <b>flutter Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Programmer, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
+    An aspiring <b>AIML Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Programmer, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
     <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
   </em>
